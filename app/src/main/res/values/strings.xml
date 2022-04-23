@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">HomeWorkAndroid1_L1</string>
+    <string name="tv_Main">First TextView</string>
+    <string name="et_01">Можно что-нибудь написать</string>
+    <string name="btn_01">First Button</string>
+    <string name="switch_01">Вкл</string>
+    <string name="checkBox_01">Ставим галочку</string>
+    <string name="tb01_On">On</string>
+    <string name="tb01_Off">Off</string>
+    <string name="et_02">text</string>
+    <string name="et_03">textPersonName</string>
+    <string name="et_04">phone</string>
+    <string name="et_05">number</string>
+    <string name="et_06">textPassword</string>
+    <string name="et_07">textEmailAddress</string>
+    <string name="et_08">textCupWords</string>
 </resources>
